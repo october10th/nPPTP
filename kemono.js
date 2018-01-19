@@ -44,20 +44,20 @@ function replaceImages(selector, node) {
     }
     var imagePrefix = 'https://pbs.twimg.com/media/';
     var imageSrcs = [
-        'DRFcbJhVoAY6T77.jpg',
-        'DQ2WFD-VwAE0rE9.jpg',
-        'DQ2WFECVwAEVvqo.jpg',
-        'DTVKzXPU8AA2JUQ.jpg',
-        'DESeFnBVYAApYEF.jpg',
-        'DESd43RVYAAIiYC.jpg',
-        'DTFh5QrU8AAjKId.jpg',
-        'DTFh5QqV4AAYrB1.jpg',
-        'DCsMgrzVwAAswg0.jpg',
-        'DCsMgtQUIAAQTpq.jpg',
-        'C_N3IyIUwAAk9Bu.jpg',
-        'C8VhpcMVYAQugj7.jpg',
-        'C8VhilbU0AEzsdG.jpg',
-        'C8VfhXbUMAQbOgs.jpg'
+        'DRFcbJhVoAY6T77.jpg',  // POP w
+        'DQ2WFD-VwAE0rE9.jpg',  // DVD vol.1
+        'DQ2WFECVwAEVvqo.jpg',  // BD  vol.1
+        'DTVKzXPU8AA2JUQ.jpg',  // shop 2nd season
+        'DESeFnBVYAApYEF.jpg',  // shop
+        'DESd43RVYAAIiYC.jpg',  // sit
+        'DTFh5QrU8AAjKId.jpg',  // POP  凸
+        'DTFh5QqV4AAYrB1.jpg',  // PIPI 凸
+        'DCsMgrzVwAAswg0.jpg',  // POP  < o w o >
+        'DCsMgtQUIAAQTpq.jpg',  // PIPI \ o w o /
+        'C_N3IyIUwAAk9Bu.jpg',  // POP PIPI
+        'C8VhpcMVYAQugj7.jpg',  // PIPI / o w o \
+        'C8VhilbU0AEzsdG.jpg',  // POP  / o w o \
+        'C8VfhXbUMAQbOgs.jpg'   // snow
 
         
     ];
