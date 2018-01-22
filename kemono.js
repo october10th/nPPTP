@@ -60,7 +60,8 @@ function replaceImages(selector, node) {
         'C8VfhXbUMAQbOgs.jpg',  // snow
         'DTvfza4VAAE8u8h.jpg',  // scramble
         'DTvf2MeUQAEoVlE.jpg',  // ball
-        'DT_3DC1VQAE1Cth.jpg'   // ボブネミミッミ
+        'DT_3DC1VQAE1Cth.jpg',  // ボブネミミッミ
+        'DUHBJRJVAAEWvZs.jpg'   // 6
 
         
     ];
